@@ -55,11 +55,11 @@ PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
 #24.10.0
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
-PACKAGES="$PACKAGES openssh-sftp-server"
+PACKAGES="$PACKAGES luci-app-openclash"
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # 静态文件服务器dufs(推荐)
-PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
 
 # 第三方软件包 合并
 # ======== shell/custom-packages.sh =======
