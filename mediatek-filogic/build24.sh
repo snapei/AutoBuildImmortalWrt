@@ -63,7 +63,8 @@ PACKAGES="$PACKAGES luci-app-upnp"
 PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
 PACKAGES="$PACKAGES luci-app-wol"
 PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
-
+# luci-compat兼容老的软件
+PACKAGES="$PACKAGES luci-compat"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
