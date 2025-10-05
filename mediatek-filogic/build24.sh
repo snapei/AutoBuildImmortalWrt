@@ -55,14 +55,14 @@ PACKAGES="$PACKAGES luci-theme-argon"
 #24.10.0
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
-PACKAGES="$PACKAGES luci-app-adguardhome"
+#PACKAGES="$PACKAGES luci-app-adguardhome"
 PACKAGES="$PACKAGES luci-app-ddns-go"
 PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-app-upnp"
 PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
-PACKAGES="$PACKAGES luci-app-wol"
-PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
+#PACKAGES="$PACKAGES luci-app-wol"
+#PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
 # luci-compat兼容老的软件
 #PACKAGES="$PACKAGES luci-compat"
 
